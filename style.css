@@ -2,6 +2,8 @@
     color:red;
 }
 
+/* to style header */
+
 #headerDiv{
     height: 200px;
     width: 100%;
@@ -9,24 +11,30 @@
     text-align: center;
 }
 
+/* introDiv */
 #div1{
+    margin: 10px;
     float: left;
     padding: 15px;
     height: 300px;
-    width: 440px;
+    width: 500px;
     background-color: burlywood;
 }
 
 
+
+/* h1 to h6 div */
 #div2{
     padding: 20px;
     margin: 10px;
     float: left;
     height: 500px;
-    width: 960px;
+    width: 880px;
     background-color: silver;
 }
 
+
+/* para div */
 #div3{
     float: left;
     padding: 20px;
@@ -37,6 +45,8 @@
 }
 
 
+
+/* unordered lists */
 #div4{
     float: left;
     padding: 20px;
@@ -46,6 +56,9 @@
     background-color: khaki;
 }
 
+
+
+/* ordered lists */
 #div5{
     float: left;
     padding: 20px;
